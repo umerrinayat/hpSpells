@@ -10,3 +10,20 @@ a {
 .displayBanner{
   background-image: url('../images/harry-potter-wallpaper9.jpg');
 }
+
+
+.whiteText{
+  color: white !important;
+}
+
+.boldText{
+  font-weight: bold;
+}
+
+.navbar-toggle .whiteColor{
+  background: white !important;
+}
+
+.fontBig{
+  font-size: 1.2em;
+}
